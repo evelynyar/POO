@@ -1,0 +1,18 @@
+#imprimir Hola Mundo
+Repositorio creado para archivo basico con codigo "Hola mundo"
+Pasos para crearlo y subir a GitHub
+
+#Pasos
+1. Creacion de un archivo local en el escritorio.
+2. Nombramos la carpeta y la abrimos con VS Code.
+3. Creamos un respositorio en GitHub para enlazar a nuestro archivo.
+4. Abrir Terminal y comenzar a hacer cambios y configuraciones.
+5. Subimos el archivo al repositorio remoto en GitHub.
+
+#Comentario extra
+Nos ayudamos con guia proporcionada por el Ing. Luis Jaramillo, asi mismo con videos de youtube para mejor entendimiento.
+
+#Bibliografía
+1. Configuración de Git. (s/f). Recuperado el 22 de noviembre de 2024, de https://docs.github.com/es/get-started/getting-started-with-git/set-up-git
+2. Developeando [@Developeando]. (s/f). ¿Cómo usar GitHub? - ¡Todo lo que necesitás saber! Youtube. Recuperado el 22 de noviembre de 2024, de https://www.youtube.com/watch?v=44ziZ12rJwU
+3. (S/f-a). Edu.ec. Recuperado el 22 de noviembre de 2024, de https://micampusvirtual.espe.edu.ec/pluginfile.php/179153/mod_resource/content/1/Github.pdf
